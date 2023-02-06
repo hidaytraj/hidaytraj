@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hidaytraj
+- 👋 Hello World!
 - 👀 I’m interested in Programming like JavaScript, React, Node, ExpressJS
 - 🌱 I’m currently learning Next, Jest
 - 💞️ I’m looking to collaborate on JavaScript, ExpressJS
